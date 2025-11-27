@@ -7,25 +7,22 @@
 
 ### 🚀 About Me  
 - 👨‍💻 **SDE 1 @ Porter** (Android)  
-- 📲 Passionate **Android Developer** skilled in **Kotlin, Jetpack Compose, XML, Dagger, RIB Architecture**  
+- 📱 Passionate about building fast, scalable & clean Android apps  
+- 🧩 Skilled in **Kotlin, Jetpack Compose, XML, Dagger, RIB Architecture, Coroutines**  
 - 🎓 **B.Tech (E&TC), VIT Pune — 2025**  
-- 🧠 Love working on **performance optimization, app architecture, crash reduction, and clean UI**  
-- 🏆 **Tech for Good Hackathon Winner (2023)**  
+- 🏆 **Tech for Good Hackathon Winner**  
 - 🏅 **Smart India Hackathon Finalist**  
-- 🛠️ Previously improved app performance at Porter:  
-  - 🚀 Optimized app launch time  
-  - 📉 Reduced crashes from **10M → 40K**  
-  - 🔧 Fixed ANRs, UI bottlenecks & improved rate-limit handling  
-  - 🎨 Migrated animations to Lottie & improved overall maintainability  
+- 🌐 **Portfolio:** https://shantanupawarportfolio.netlify.app/  
+- 💡 I enjoy working on UI/UX, architecture, performance, and developer experience  
 
 ---
 
-### 💬 Ask me about  
-**Kotlin, Jetpack Compose, Android Architecture, Java, JavaScript, ReactJS, NodeJS, MySQL, PHP, Python, Tailwind, Bootstrap**
+### 💬 Ask Me About  
+**Kotlin, Jetpack Compose, Android Architecture, Java, JavaScript, ReactJS, NodeJS, PHP, Python, MySQL, Git, Tailwind, Bootstrap**
 
 ---
 
-### 🌐 Connect with me  
+### 🌐 Connect with Me  
 <p align="left">
 <a href="https://linkedin.com/in/pawarshantanu" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -35,6 +32,9 @@
 </a>
 <a href="https://auth.geeksforgeeks.org/user/pawarshantanu7" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+</a>
+<a href="https://shantanupawarportfolio.netlify.app/" target="blank">
+  <img align="center" src="https://img.icons8.com/?size=512&id=59856&format=png" height="34" width="34" />
 </a>
 </p>
 
@@ -64,21 +64,20 @@
 ---
 
 ### 🏆 Achievements  
-- 🥇 **Tech for Good Hackathon Winner (2023)**  
-- 🥈 **Smart India Hackathon Finalist (2023)**  
+- 🥇 **Tech for Good Hackathon Winner**  
+- 🥈 **Smart India Hackathon Finalist**  
 - 📰 **2× IEEE Publications**  
-- 💼 Built multiple full-stack, Android & ML projects  
+- 🧠 Built multiple Android, full-stack & ML projects  
 
 ---
 
 ### 📂 Featured Projects  
-- 🏠 **All-in-One Real Estate Marketplace** (React, Node, MongoDB, JWT, Google OAuth)  
-- 💸 **ExpenseGuard Pro – Daily Expense Management System**  
+- 🏠 **All-in-One Real Estate Marketplace**  
+- 💸 **ExpenseGuard Pro – Expense Tracker**  
 - 📊 **WhatsApp Chat Analyzer**  
-- 🔐 **Image Encryption & Decryption Tool**  
+- 🔐 **Image Encryption & Decryption App**
 
 ---
 
 ### ⭐ Fun Fact  
-I love creating **digital products** that solve real-world problems & I’m obsessed with **clean UI + smooth UX** in Android apps.
-
+I love building clean, fast and user-focused digital experiences.
